@@ -1,4 +1,4 @@
-# 📊 Power BI Superstore Sales Dashboard
+Power BI Superstore Sales Dashboard
 
 This repository contains a Power BI dashboard built using the Superstore dataset.  
 The dashboard provides detailed insights into sales performance, customer segments, product categories, and regional profitability.
